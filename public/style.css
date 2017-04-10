@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  border: none;
+}
+
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("low_poly.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.name-img {
+  width: 70vw;
+  margin-bottom: 50px;
+}
